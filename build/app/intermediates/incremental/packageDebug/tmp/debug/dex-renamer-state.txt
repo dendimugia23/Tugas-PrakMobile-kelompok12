@@ -1,0 +1,4 @@
+#Sat May 25 20:40:12 WIB 2024
+base.0=D\:\\Tugas\\Semester 6\\PMOB\\tugas_pmob_kelompok12\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
